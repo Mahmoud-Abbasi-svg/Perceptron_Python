@@ -1,1 +1,1 @@
-# Perceptron_Python
+# Simple perceptron algorithm from scratch
